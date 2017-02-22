@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1449335486 source:/home/rachy/Downloads/FileLoadfiles/functions.cpp
+	"header.h"
+
+1449352973 /home/rachy/Downloads/FileLoadfiles/header.h
+	<string>
+	<sstream>
+	<fstream>
+	<iostream>
+
+1449343965 source:/home/rachy/Downloads/FileLoadfiles/main.cpp
+	"header.h"
+
+1449619166 source:/home/rachy/Downloads/fileLoad/FileLoadfiles/functions.cpp
+	"header.h"
+	<cmath>
+
+1449617149 /home/rachy/Downloads/fileLoad/FileLoadfiles/header.h
+	<string>
+	<sstream>
+	<fstream>
+	<iostream>
+
+1449617149 source:/home/rachy/Downloads/fileLoad/FileLoadfiles/main.cpp
+	"header.h"
+
